@@ -14,6 +14,18 @@ main {
     max-width: 840px;
 }
 
+h1 {
+    color: #000;
+}
+
+main img {
+    width: 20rem;
+    height: auto;
+    border: 1px solid rgb(0 0 0);
+    padding: 10px;
+    box-shadow: #333;
+}
+
 aside {
     width: 20rem;
     margin: 1rem;
