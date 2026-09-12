@@ -4,6 +4,12 @@ nav {
     padding: 10px;
 }
 
+nav a {
+    color: #000;
+    padding: 10px;
+    display: block;
+}
+
 main {
     max-width: 840px;
 }
