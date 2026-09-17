@@ -1,12 +1,12 @@
 nav {
     background-color: red;
     display: block;
-    padding: 10px;
+    padding: var(--padding);
 }
 
 nav a {
     color: #000;
-    padding: 10px;
+    padding: var(--padding);
     display: block;
 }
 
@@ -15,7 +15,7 @@ main {
 }
 
 h1 {
-    color: #000;
+    color: var(--heading-text-color);
 }
 
 main img {
@@ -32,8 +32,8 @@ aside {
     border: 1px solid rgb(0 0 0/ 0.2);
     /* 1️⃣ */
     padding: var(--padding);
-    background-color: #eee;
-    color: #333;
+    background-color: var(--heading-background-color);
+    color: var(--heading-text-color);
     text-align: center;
 }
 
