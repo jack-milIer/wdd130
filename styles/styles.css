@@ -1,5 +1,7 @@
 :root {
-    --heading-background-color: #f06 --heading-text-color: #333 --padding: 1rem;
+    --heading-background-color: #f06;
+    --heading-text-color: #333;
+    --padding: 1rem;
     border: 1px solid rgb(0 0 0 / 0.1);
 }
 
