@@ -1,3 +1,9 @@
+* {
+    margin: 0;
+    padding: var(--padding);
+    box-sizing: border-box;
+}
+
 nav {
     background-color: red;
     display: block;
