@@ -5,12 +5,6 @@
     border: 1px solid rgb(0 0 0 / 0.1);
 }
 
-nav {
-    background-color: red;
-    display: block;
-    padding: 10px;
-}
-
 nav a {
     color: #000;
     padding: 10px;
