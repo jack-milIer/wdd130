@@ -63,7 +63,7 @@ h1 {
 }
 
 .hero article {
-    float: middle;
+    position: absolute;
 }
 
 .hero article img {
