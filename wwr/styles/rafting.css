@@ -6,7 +6,7 @@
 
 :root {
     --primary-color: #4c5ff1;
-    --accent-color: black;
+    --accent-color: #000000;
     --heading-font: "Times New Roman", "Georgia", serif;
     --body-font: Arial, Helvetica, sans-serif;
 }
@@ -58,7 +58,7 @@ h1 {
     padding: 16px;
     text-align: center;
     opacity: 0.7;
-    background-color: blue;
+    background-color: #4c5ff1;
     color: #fff;
 }
 
