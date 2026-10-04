@@ -157,6 +157,23 @@ h1 {
     padding: 20px;
 }
 
+        .grid-container {
+            display: grid;
+            grid-template-columns: 200px 70px 100px 20px;
+            grid-gap: 30px;
+            background-color: #8cc1ec;
+            padding: 10px;
+        }
+
+        .grid-item {
+            display: grid;
+            background-color: #dccbf8;
+            border: 1px solid black;
+            padding: 20px;
+            font-size: 30px;
+            text-align: center;
+        }
+
 footer {
     padding: 1rem;
 }
