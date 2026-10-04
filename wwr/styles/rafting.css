@@ -106,7 +106,7 @@ nav li {
 
 .hero img {
     display: block;
-    position: left;
+    float: left;
     width: 100%;
     height: auto;
     margin-left: auto;
