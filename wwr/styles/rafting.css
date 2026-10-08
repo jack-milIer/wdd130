@@ -64,6 +64,11 @@ article {
     padding: 8px;
 }
 
+section2 {
+    padding: 15px;
+    margin: 15px;
+}
+
 nav {
     background-color: lightgrey;
     padding: 1rem;
@@ -126,13 +131,13 @@ nav li {
     position: relative;
     width: 600px;
     max-width: 900px;
-    margin: 0 auto;
+    margin: 0;
 }
 
 .this h1 {
     position: relative;
     top: 20px;
-    width: 100%;
+    width: 900px;
     padding: 0;
     margin: 0;
     text-align: center;
@@ -149,9 +154,18 @@ nav li {
 .pictures {
     display: grid;
     grid-template: 100px 100px / 150px 150px 150px;
-    grid-gap: 10px 150px;
+    grid-gap: 10px 75px;
     border-radius: 10px;
     padding: 50px;
+}
+
+.Sign-Up {
+    padding: 5px;
+    box-shadow: 3px 3px 4px 4px red;
+    border-radius: 10px 10px 10px 10px;
+    border: 5px blue;
+    position: relative;
+    margin-top: 10px;
 }
 
 .adventure {
