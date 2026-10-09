@@ -131,6 +131,7 @@ nav li {
     justify-content: center;
     text-align: center;
     width: 600px;
+    font-size: 25px;
 }
 
 .this {
@@ -146,7 +147,9 @@ nav li {
     width: 600px;
     max-width: 900px;
     margin: 0;
+    font-weight: bold;
 }
+
 .this2 h1 {
     position: relative;
     top: 5px;
